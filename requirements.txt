@@ -30,7 +30,6 @@ Pygments==2.18.0
 PyPDF2==3.0.1
 python-dotenv==1.0.1
 python-pptx==1.0.2
-pywin32==310
 PyYAML==6.0.2
 regex==2024.9.11
 requests==2.32.3
